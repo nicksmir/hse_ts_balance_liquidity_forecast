@@ -1,6 +1,6 @@
 # hse_ts_balance_liquidity_forecast
 
-#Группа: Обухов Артемий, Букашкин Антон, Смирнов Никита, Зайцев Георгий
+Группа: Обухов Артемий, Букашкин Антон, Смирнов Никита, Зайцев Георгий
 
 Data_preparation.ipynb - Подготовка данных & EDA Feature_Selection_and_model_tuning.ipynb - Основной файл
 
